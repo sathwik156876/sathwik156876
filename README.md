@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathwik Reddy</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-- 🌱 I’m currently learning **MERNSTACK ,FULLSTACK**
+- 🌱 I’m currently learning **MERNSTACK ,AWS CLOUD**
 
 - 👨‍💻 All of my projects are available at [https://sathwiksite.netlify.app/](https://sathwiksite.netlify.app/)
 
