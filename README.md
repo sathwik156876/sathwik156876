@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sathwik Reddy</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-- 🌱 I’m currently learning **MERNSTACK ,AWS CLOUD**
+- 🌱 I’m currently learning **FULLSTACK ,AWS CLOUD**
 
 - 👨‍💻 All of my projects are available at [https://sathwiksite.netlify.app/](https://sathwiksite.netlify.app/)
 
 - 📫 How to reach me **sathwikr73@gmail.com**
-
 <h3 align="left"></h3>
 <p align="left">
 </p>
